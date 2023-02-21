@@ -133,8 +133,13 @@
     position: fixed;
     margin: 0;
     left: 0;
-    width: 120px;
+    width: 150px;
     top: 0;
+    font-size: 11px;
+  }
+
+  .aside-menu-mobile ul li {
+    margin-bottom: 10px;
   }
 
   header {
